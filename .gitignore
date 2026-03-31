@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.cache
+
+# Build results
+Debug/
+Release/
